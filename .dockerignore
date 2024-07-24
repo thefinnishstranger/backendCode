@@ -1,0 +1,8 @@
+# flyctl launch added from backend/.gitignore
+backend/**/node_modules
+backend/**/.env
+backend/test-results
+backend/playwright-report
+backend/blob-report
+backend/playwright/.cache
+fly.toml
